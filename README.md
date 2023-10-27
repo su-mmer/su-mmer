@@ -19,10 +19,10 @@
 # 🪪 Certificate
 </br>
 <p>
-<img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="240" height="240"></a> &nbsp
-<img src="https://images.credly.com/size/680x680/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" width="240" height="240"></a> &nbsp
-<img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="240" height="240"></a> &nbsp
-<img src="https://github.com/su-mmer/su-mmer/assets/50980974/f5a898a4-0c60-48f6-8669-a4f78d83033e" width="240" height="240"></a> &nbsp
+<img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="200" height="200"></a> &nbsp
+<img src="https://images.credly.com/size/680x680/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" width="200" height="200"></a> &nbsp
+<img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="200" height="200"></a> &nbsp
+<img src="https://github.com/su-mmer/su-mmer/assets/50980974/f5a898a4-0c60-48f6-8669-a4f78d83033e" width="200" height="200"></a> &nbsp
 </p>
 
 <!--
