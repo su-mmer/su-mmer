@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp
 </p>
 
@@ -20,10 +22,8 @@
 <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="240" height="240"></a> &nbsp
 <img src="https://images.credly.com/size/680x680/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png" width="240" height="240"></a> &nbsp
 <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="240" height="240"></a> &nbsp
-<img src="https://edu.ncloud.com/public/img/certExam/NCP.png" width="240" height="240"></a> &nbsp
+<img src="https://github.com/su-mmer/su-mmer/assets/50980974/f5a898a4-0c60-48f6-8669-a4f78d83033e" width="240" height="240"></a> &nbsp
 </p>
-
-
 
 <!--
 **su-mmer/su-mmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,8 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-==== 추가할 것 =====
-javascript, java, 
 
 -->
