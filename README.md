@@ -3,7 +3,7 @@
 협업과 자동화, best practice에 관심이 많습니다. </br>
 기술 스택을 사용할 때 '왜' 사용하는지 아는 것이 중요하다고 생각합니다. </br>
 
-저랑 [링크드인](www.linkedin.com/in/hyeonhee-kim-786061262) 친구 하실래요?
+저랑 [링크드인](https://www.linkedin.com/in/hyeonhee-kim-786061262/) 친구 하실래요?
 </br>
 
 # 🧱 Stacks
